@@ -16,6 +16,8 @@ Further Resources
 [CS 61B UC Berkeley - Data Structures](http://www.cs.berkeley.edu/~jrs/61b/lab/index.html)  
 [Lecture Videos](https://www.youtube.com/watch?v=frxF7Vs96YU&list=PLMM0a7ZGnITrgfhOxMNP7bpP4hhhKNY9s)
 
+[General Assembly HTML, CSS and Javascript](https://dash.generalassemb.ly/)
+
 ###Video Series
 
 [Let's Learn Python](https://www.youtube.com/watch?v=D48iCw3WWpI&list=PL82YdDfxhWsDJTq5f0Ae7M7yGcA26wevJ)
